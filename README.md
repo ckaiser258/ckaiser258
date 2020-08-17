@@ -50,10 +50,6 @@
 
 ➡️ [more blog posts...](https://medium.com/@coltonkaiser)
 
-<!-- ### ⚡ Recent Github Activity: -->
-
-<!--START_SECTION:activity-->
-
 ---
 
 ### Languages and Tools:
