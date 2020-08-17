@@ -18,7 +18,6 @@
 
 - ⚡ Fun fact **Energy drinks over coffee**
 
----
 
 ### Connect With Me:
 
