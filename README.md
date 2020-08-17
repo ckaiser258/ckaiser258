@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Colton</h1>
+<h1 align="center">Hi 👋, I'm Colton 
+   <br /> 
+   <p align="center">
+      <img src="https://img.shields.io/badge/COLTONKAISER.DEV-UP-brightgreen?style=for-the-badge" alt="Website" style="max-width:100%;">
+   </p>
+</h1>
 
 <h3 align="center">A passionate full stack developer</h3>
 
@@ -12,7 +17,7 @@
 
 - 📝 I regulary write articles on [medium.com/@coltonkaiser](medium.com/@coltonkaiser)
 
-- 💬 Ask me about **JavaScript, Ruby, ReactJS, Rails, ChartJS**
+- 💬 Ask me about **ReactJS, Rails, JavaScript, Ruby, ChartJS**
 
 - 📫 How to reach me: **kaiserc2@seattleu.edu**
 
