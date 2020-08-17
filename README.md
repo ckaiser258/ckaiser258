@@ -40,8 +40,6 @@
 - [From Turf to Tech: Why I Left the Field of Strength & Conditioning to Become a Software Engineer](https://medium.com/@coltonkaiser/from-turf-to-tech-why-i-left-the-field-of-strength-conditioning-to-become-a-software-engineer-216732f4ea4f?source=rss-f68e8e1bdbb9------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-
 ### Languages and Tools:
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" align="left" width="40" height="40"/>
@@ -57,7 +55,8 @@
 
  <br />
   <br />
-  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckaiser258&layout=compact&hide=html" alt="ckaiser258" /></p>
+---
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ckaiser258&show_icons=true" alt="ckaiser258" /></p>
+[![Colton's Github Stats](https://github-readme-stats.vercel.app/api?username=ckaiser258&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckaiser258&layout=compact&hide=html" alt="ckaiser258" /></p>
