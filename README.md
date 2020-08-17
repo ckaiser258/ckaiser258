@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Colton 
    </h1>
    <p align="center">
-      <img align="center" src="https://img.shields.io/badge/COLTONKAISER.DEV-UP-brightgreen?style=for-the-badge" alt="Website" style="max-width:100%;">
+      <a href="https://coltonkaiser.dev">
+         <img align="center" src="https://img.shields.io/badge/COLTONKAISER.DEV-UP-brightgreen?style=for-the-badge" alt="Website" style="max-width:100%;">
+      </a>
    </p>
 
 <h3 align="center">A passionate full stack developer</h3>
