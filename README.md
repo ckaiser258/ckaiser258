@@ -17,8 +17,8 @@
 - 📫 How to reach me: **kaiserc2@seattleu.edu**
 
 - ⚡ Fun fact **Energy drinks over coffee**
-  <br />
-    <br />
+
+---
 
 ### Connect With Me:
 
