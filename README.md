@@ -57,6 +57,6 @@
   <br />
 ---
 
-[![Colton's Github Stats](https://github-readme-stats.vercel.app/api?username=ckaiser258&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Colton's Github Stats](https://github-readme-stats.vercel.app/api?username=ckaiser258&show_icons=true&hide_border=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckaiser258&layout=compact&hide=html" alt="ckaiser258" /></p>
