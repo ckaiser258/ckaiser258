@@ -48,6 +48,10 @@
 
 ➡️ [more blog posts...](https://medium.com/@coltonkaiser)
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ### Languages and Tools:
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" align="left" width="40" height="40"/>
