@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **Energy drinks over coffee**
 
-<br />
+---
 
 ### Connect With Me:
 
