@@ -53,10 +53,10 @@
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" align="left" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" align="left" width="40" height="40"/></p>
 
- <br />
-  <br />
 ---
 
 [![Colton's Github Stats](https://github-readme-stats.vercel.app/api?username=ckaiser258&show_icons=true&hide_border=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckaiser258&layout=compact&hide=html" alt="ckaiser258" /></p>
