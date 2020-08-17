@@ -55,5 +55,5 @@
 
 ---
 
-<img alt="Colton's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ckaiser258&show_icons=true&hide_border=true&hide=stars"/>
+<img alt="Colton's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ckaiser258&show_icons=true&hide_border=true&hide=stars&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckaiser258&layout=compact&hide=html&hide_border=true" alt="ckaiser258" />
