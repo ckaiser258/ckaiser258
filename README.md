@@ -73,6 +73,6 @@
 <br />
 
 <details>
-   <summary>🤣 Random Joke</summary>
+   <summary><strong>🤣 Random Joke</strong></summary>
    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </details>
