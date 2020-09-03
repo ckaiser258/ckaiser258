@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [coltonkaiser.dev](coltonkaiser.dev)
 
-- 📝 I regulary write articles on [medium.com/@coltonkaiser](medium.com/@coltonkaiser)
+- 📝 I regularly write articles on [medium.com/@coltonkaiser](medium.com/@coltonkaiser)
 
 - 💬 Ask me about **ReactJS, Rails, JavaScript, Ruby, ChartJS**
 
