@@ -41,7 +41,7 @@
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Under The Hood Pt. 1: The Global Object](https://medium.com/@coltonkaiser/javascript-under-the-hood-pt-1-the-global-environment-332c8494413c?source=rss-f68e8e1bdbb9------2)
+- [JavaScript Under The Hood Pt. 1: The Global Object](https://codeburst.io/javascript-under-the-hood-pt-1-the-global-environment-332c8494413c?source=rss-f68e8e1bdbb9------2)
 - [Understanding Singly Linked Lists and their functions](https://medium.com/javascript-in-plain-english/understanding-singly-linked-lists-and-their-functions-ae8f2e53f92d?source=rss-f68e8e1bdbb9------2)
 - [Tackling the Tricky Concept of Recursion](https://levelup.gitconnected.com/tackling-the-tricky-concept-of-recursion-d8608817f520?source=rss-f68e8e1bdbb9------2)
 - [Understanding Big O Space Complexity](https://medium.com/datadriveninvestor/understanding-big-o-space-complexity-6826478e5a9f?source=rss-f68e8e1bdbb9------2)
