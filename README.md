@@ -14,9 +14,9 @@
 
 - 👯 I'm looking to collaborate with other content creators
 
-- 👨‍💻 All of my projects are available at [coltonkaiser.dev](coltonkaiser.dev)
+- 👨‍💻 All of my projects are available at [coltonkaiser.dev](https://coltonkaiser.dev)
 
-- 📝 I regularly write articles on [medium.com/@coltonkaiser](medium.com/@coltonkaiser)
+- 📝 I regularly write articles on [medium.com/@coltonkaiser](https://medium.com/@coltonkaiser)
 
 - 💬 Ask me about **ReactJS, Rails, JavaScript, Ruby, ChartJS**
 
