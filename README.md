@@ -41,11 +41,11 @@
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [JWT Tokens. The What, How, And Why](https://medium.com/@coltonkaiser/jwt-tokens-the-what-how-and-why-6ae3bad26661?source=rss-f68e8e1bdbb9------2)
 - [JavaScript Under The Hood Pt. 6: Asynchronous Callbacks](https://medium.com/javascript-in-plain-english/javascript-under-the-hood-pt-6-asynchronous-callbacks-f8e2e1e332bb?source=rss-f68e8e1bdbb9------2)
 - [JavaScript Under The Hood Pt. 5: Prototype and Prototypal Inheritance](https://codeburst.io/javascript-under-the-hood-pt-5-prototype-and-prototypal-inheritance-e5c400dba41d?source=rss-f68e8e1bdbb9------2)
 - [JavaScript Under The Hood Pt. 4: Bind(), Call(), and Apply()](https://codeburst.io/javascript-under-the-hood-pt-4-bind-call-and-apply-22e2b46b3882?source=rss-f68e8e1bdbb9------2)
 - [JavaScript Under The Hood Pt. 3: Narrowing With Logical Operators](https://medium.com/javascript-in-plain-english/javascript-under-the-hood-pt-3-narrowing-with-logical-operators-41e02eed8a16?source=rss-f68e8e1bdbb9------2)
-- [What Is Hoisting? JavaScript Under The Hood, Pt. 2](https://codeburst.io/what-is-hoisting-javascript-under-the-hood-pt-2-3af5d2b911?source=rss-f68e8e1bdbb9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@coltonkaiser)
