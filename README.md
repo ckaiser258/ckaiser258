@@ -41,7 +41,7 @@
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
-- [How To Create A Unique Workout Planner With ReactJS](https://medium.com/@coltonkaiser/how-to-create-a-unique-workout-planner-with-reactjs-1bf56491a94a?source=rss-f68e8e1bdbb9------2)
+- [How To Create A Unique Workout Planner With ReactJS](https://medium.com/swlh/how-to-create-a-unique-workout-planner-with-reactjs-1bf56491a94a?source=rss-f68e8e1bdbb9------2)
 - [JavaScript Under The Hood Pt. 7: IIFEs](https://levelup.gitconnected.com/javascript-under-the-hood-pt-7-iifes-23b70358db73?source=rss-f68e8e1bdbb9------2)
 - [JWT Tokens: The What, How, and Why](https://medium.com/better-programming/jwt-tokens-the-what-how-and-why-6ae3bad26661?source=rss-f68e8e1bdbb9------2)
 - [JavaScript Under The Hood Pt. 6: Asynchronous Callbacks](https://medium.com/javascript-in-plain-english/javascript-under-the-hood-pt-6-asynchronous-callbacks-f8e2e1e332bb?source=rss-f68e8e1bdbb9------2)
