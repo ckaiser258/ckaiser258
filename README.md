@@ -64,7 +64,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" align="left" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" align="left" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" align="left" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux" align="left" width="40" height="40"/>
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" align="left" width="40" height="40"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" align="left" width="40" height="40"/>
-   <img src="https://material-ui.com/static/logo_raw.svg" alt="materialui" width="40" height="40"/></p>
+   <img src="https://material-ui.com/static/logo_raw.svg" alt="materialui" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/></p>
 
 ---
