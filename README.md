@@ -54,16 +54,18 @@
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" align="left" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" align="left" width="40" height="40"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" align="left" alt="javascript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" align="left" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" align="left" width="40" height="40"/>
+     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql" align="left" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" alt="rails" align="left" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="ruby" align="left" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="ruby" align="left" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" align="left" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" align="left" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" align="left" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" align="left" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" align="left" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" align="left" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" align="left" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" align="left" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" align="left" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux" align="left" width="40" height="40"/>
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" align="left" width="40" height="40"/>
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" align="left" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></p>
+   <img src="https://material-ui.com/static/logo_raw.svg" alt="materialui" width="40" height="40"/></p>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/></p>
 
 ---
 
