@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Performance Mapper](https://github.com/ckaiser258/Final_Project_Frontend), a performance and injury analysis tool for coaches
 
-- 🌱 I’m currently learning **Jest/Enzyme, Redux, and React Native**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I'm looking to collaborate with other content creators
 
