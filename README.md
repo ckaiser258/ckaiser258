@@ -54,18 +54,20 @@
 
 ### Languages and Tools:
 <p align="left">
+    <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.jpg" align="left" alt="typescript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" alt="javascript" width="40" height="40"/>
     <img src="https://reactnative.dev/img/header_logo.svg" alt="react" align="left" width="40" height="40"/>
+   <img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="nextjs" align="left" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql" align="left" width="40" height="40"/>
+           <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_apollostack.png?raw=true" alt="apollo" align="left" width="40" height="40"/>
+        <img src="https://iconape.com/wp-content/files/xs/85603/svg/prisma-3.svg" alt="prisma" align="left" width="40" height="40"/>
+   <img src="https://media.zeemly.com/zeemly/product/material-ui.png" alt="materialui" align="left" width="40" height="40"/>
      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" alt="rails" align="left" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="ruby" align="left" width="40" height="40"/>
-     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql" align="left" width="40" height="40"/>
-   <img src="https://pbs.twimg.com/profile_images/1044345247440896001/pXI1GDHW_400x400.jpg" alt="cypress" align="left" width="40" height="40"/>
+   <img src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_cypress.png?raw=true" alt="cypress" align="left" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" align="left" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" align="left" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" align="left" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" align="left" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux" align="left" width="40" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" align="left" width="40" height="40"/>
-   <img src="https://material-ui.com/static/logo_raw.svg" alt="materialui" align="left" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="40" height="40"/></p>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" align="left" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" align="left" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="redux" width="40" height="40"/></p>
 
 ---
 
