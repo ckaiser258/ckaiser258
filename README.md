@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [medium.com/@coltonkaiser](https://medium.com/@coltonkaiser)
 
-- 💬 Ask me about **React, TypeScript, Rails, Ruby, GraphQL**
+- 💬 Ask me about **React, TypeScript, GraphQL, Next.JS, Prisma**
 
 - 📫 How to reach me: **kaiserc2@seattleu.edu**
 
