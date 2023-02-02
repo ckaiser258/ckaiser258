@@ -8,7 +8,7 @@
 
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on [Performance Mapper](https://github.com/ckaiser258/Final_Project_Frontend), a performance and injury analysis tool for coaches
+- 🔭 I’m currently working on [Performance Mapper 2.0](https://github.com/ckaiser258/performance-mapper-2.0), a performance monitoring and injury analysis tool for coaches
 
 - 🌱 I’m currently learning **Next.js**
 
