@@ -33,7 +33,7 @@
   <a href="https://linkedin.com/in/coltonkaiser" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coltonkaiser" height="30" width="30" /></a>
     <a href="https://medium.com/@coltonkaiser" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@coltonkaiser" height="30" width="30" /></a>
     <a href="https://dev.to/coltonkaiser" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="coltonkaiser" height="30" width="30" /></a>
-   <a href="mailto:kaiserc2@seattleu.edu" target="blank"><img align="left" src="https://image.flaticon.com/icons/png/512/666/666162.png" alt="coltonkaiser.dev" height="30" width="30" /></a>
+   <a href="mailto:kaiserc2@seattleu.edu" target="blank"><img align="left" src="https://user-images.githubusercontent.com/62724182/220259202-4ab0921a-5869-42f6-9a0c-276dcf94b948.png" alt="kaiserc2@seattleu.edu" height="30" width="30" /></a>
   
  </p>
  <br />
