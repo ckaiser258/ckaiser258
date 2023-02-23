@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on [Performance Mapper 2.0](https://github.com/ckaiser258/performance-mapper-2.0), a performance monitoring and injury analysis tool for coaches
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👯 I'm looking to collaborate with other content creators
 
 - 👨‍💻 All of my projects are available at [coltonkaiser.dev](https://coltonkaiser.dev)
