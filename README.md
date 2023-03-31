@@ -10,11 +10,7 @@
 
 - 🔭 I’m currently working on an [AI Powered Travel and Language Learning App](https://github.com/ckaiser258/ai-powered-travel-app), an app that allows users to translate any language they want, learn new languages with personalized exercises, ask a chatbot about any travel-related question they have about anywhere on earth, and generate words and phrases that are most important to know anywhere in the world.
 
-- 👯 I'm looking to collaborate with other content creators
-
 - 👨‍💻 All of my projects are available at [coltonkaiser.dev](https://coltonkaiser.dev)
-
-- 📝 I regularly write articles on [medium.com/@coltonkaiser](https://medium.com/@coltonkaiser)
 
 - 💬 Ask me about **React, TypeScript, GraphQL, Next.JS, Prisma**
 
