@@ -8,7 +8,7 @@
 
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on an [AI Powered Travel and Language Learning App](https://github.com/ckaiser258/ai-powered-travel-app), an app powered by AI that allows users to translate any language they want, learn new languages with personalized exercises, ask a chatbot about any travel-related question they have about anywhere on earth, and generate words and phrases that are most important to know anywhere in the world.
+- 🔭 I’m currently working on an [AI Powered Travel and Language Learning App](https://github.com/ckaiser258/ai-powered-travel-app), an app that allows users to translate any language they want, learn new languages with personalized exercises, ask a chatbot about any travel-related question they have about anywhere on earth, and generate words and phrases that are most important to know anywhere in the world.
 
 - 👯 I'm looking to collaborate with other content creators
 
