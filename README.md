@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [coltonkaiser.dev](https://coltonkaiser.dev)
 
-- 💬 Ask me about **React, TypeScript, GraphQL, Next.JS, Prisma**
+- 💬 Ask me about **React, TypeScript, GraphQL, Next.JS, Node.js**
 
 - 📫 How to reach me: **kaiserc2@seattleu.edu**
 
